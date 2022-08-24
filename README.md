@@ -1,3 +1,3 @@
 # Exercícios CodingBat
 
-(CodingBat)[https://codingbat.com/java]
+[CodingBat](https://codingbat.com/java)
